@@ -1,0 +1,6 @@
+site_name: Product Service Documentation
+nav:
+  - Home: index.md
+
+theme:
+  name: material
